@@ -1,0 +1,7 @@
+.keys/
+.venv/
+node_modules/
+scripts/node_modules/
+video/frames/
+__pycache__/
+*.pyc
